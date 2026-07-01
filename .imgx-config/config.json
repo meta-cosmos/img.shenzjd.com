@@ -16,6 +16,7 @@
   "copyFormat": "url",
   "autoCopyAfterUpload": true,
   "useOriginalFileName": false,
+  "convertToWebp": true,
   "configPath": ".imgx-config/config.json",
   "autoSync": true
 }
