@@ -11,7 +11,7 @@
   "watermarkSize": 24,
   "watermarkPosition": "bottom-right",
   "theme": "system",
-  "cdn": "jsd-onmicrosoft",
+  "cdn": "ghproxy",
   "useRaw": true,
   "copyFormat": "url",
   "autoCopyAfterUpload": true,
@@ -19,6 +19,6 @@
   "convertToWebp": true,
   "configPath": ".imgx-config/config.json",
   "autoSync": true,
-  "lastSyncAt": "2026-07-01T09:12:34.734Z",
-  "sha": "0f1e4d582c50c9c73c2c6f163d632393c83e98af"
+  "lastSyncAt": "2026-07-01T09:28:28.095Z",
+  "sha": "db6f57b7a9a77878ce7df7789e6a980a96dbb067"
 }
