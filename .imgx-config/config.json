@@ -18,5 +18,7 @@
   "useOriginalFileName": false,
   "convertToWebp": true,
   "configPath": ".imgx-config/config.json",
-  "autoSync": true
+  "autoSync": true,
+  "lastSyncAt": "2026-07-01T09:12:34.734Z",
+  "sha": "0f1e4d582c50c9c73c2c6f163d632393c83e98af"
 }
