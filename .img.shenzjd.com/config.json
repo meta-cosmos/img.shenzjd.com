@@ -19,7 +19,5 @@
   "convertToWebp": false,
   "duplicateStrategy": "rename",
   "configPath": ".img.shenzjd.com/config.json",
-  "autoSync": true,
-  "lastSyncAt": "2026-09-09T01:33:08.390Z",
-  "sha": "460f5c2dbfd1109f51dcbdda6fd9e21f744a1970"
+  "autoSync": true
 }
