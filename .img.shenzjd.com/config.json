@@ -2,7 +2,7 @@
   "owner": "meta-cosmos",
   "repo": "img.shenzjd.com",
   "branch": "main",
-  "directory": "blog",
+  "directory": "",
   "compressionEnabled": false,
   "compressionQuality": 80,
   "watermarkEnabled": false,
@@ -20,6 +20,6 @@
   "duplicateStrategy": "rename",
   "configPath": ".img.shenzjd.com/config.json",
   "autoSync": true,
-  "lastSyncAt": "2026-11-25T00:50:48.993Z",
-  "sha": "31bf7f64cb944ab4abbf3cb83b914f18df02e4e4"
+  "lastSyncAt": "2026-11-25T00:56:26.494Z",
+  "sha": "5fd722f5d7a22e1dcba2d33967b99f3946f2941c"
 }
